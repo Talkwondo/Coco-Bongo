@@ -27,7 +27,7 @@ import {
 Icon.loadFont();
 GoogleSignin.configure({
   webClientId:
-    '637023032330-4k7d8290dgm9162gtcjl0ssr008joqjt.apps.googleusercontent.com',
+    '720888782960-flar9mb2qeu6k1aecsv96bcr14pp7i4t.apps.googleusercontent.com',
 });
 
 const {width} = Dimensions.get('window');
