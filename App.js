@@ -34,12 +34,12 @@ const App = (props) => {
           component={Info}
           options={({navigation}) => ({
             headerRight: () => (
-              <View style={{marginRight: 20}}>
+              <View style={{marginRight: 25}}>
                 <BadgedIcon
                   type="font-awesome"
                   name="star"
                   color="#ffd700"
-                  containerStyle={{position: 'absolute', top: 0, right: -4}}
+                  containerStyle={{position: 'absolute', top: 5, right: -5}}
                   onPress={props.setModal}
                 />
               </View>
