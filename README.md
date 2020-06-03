@@ -9,6 +9,7 @@ This app for studying purposes. link to an api that shows the top 20 movies rate
 4. Ui was designed from my React-Native Elements library.
 5. app works on both iPhone and Android devices.
 
+![App](app.png)
 
 # This is a React-Native App
 To run the app you need download react native cli tools, clone this repo and install the packages and the dependencies using yarn or npm, use npm fix audit if you have problems like deprecated dependencies.
