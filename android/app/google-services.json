@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "720888782960",
+    "firebase_url": "https://alien-outlet-192214.firebaseio.com",
+    "project_id": "alien-outlet-192214",
+    "storage_bucket": "alien-outlet-192214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720888782960:android:db986b3be359165cef14b5",
+        "android_client_info": {
+          "package_name": "com.cocobongo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720888782960-7ucmdmdeqlqrhdbal8mahds9efn7jnfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cocobongo",
+            "certificate_hash": "6c68fe32c31c5b492bc05acd8872eea2bfff06d6"
+          }
+        },
+        {
+          "client_id": "720888782960-ufs18p31rg7cbu0mokdgpb9f2ekheof5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkaoCGzedtbME26JnIN-cn2i738qk8XOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720888782960-ufs18p31rg7cbu0mokdgpb9f2ekheof5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "720888782960-flar9mb2qeu6k1aecsv96bcr14pp7i4t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.cocobongo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

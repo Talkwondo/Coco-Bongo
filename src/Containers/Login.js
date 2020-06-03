@@ -25,10 +25,7 @@ import {
 } from 'react-native';
 
 Icon.loadFont();
-GoogleSignin.configure({
-  webClientId:
-    '720888782960-flar9mb2qeu6k1aecsv96bcr14pp7i4t.apps.googleusercontent.com',
-});
+GoogleSignin.configure();
 
 const {width} = Dimensions.get('window');
 
