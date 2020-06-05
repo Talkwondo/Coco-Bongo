@@ -1,13 +1,13 @@
-## Coco-Bongo
+# Coco-Bongo
 Just a small app for see the top 20 movies!
 
 # What this app does?
 This app for a studying purpose. links to an api that shows the top 20 movies rated by users, I used these tools below:
 1. Login through social network (Facebook and Google).
 2. Using Redux to handle states.
-3. Using Redux-Thunk to handle async functions from moviedb API.
-4. Ui was designed from my React-Native Elements library.
-5. app works on both iPhone and Android devices.
+3. Using Redux-Thunk to handle async function from moviedb API.
+4. Ui was designed from React-Native Elements library.
+5. App works on both iPhone and Android devices.
 
 ![App](app.png)
 
